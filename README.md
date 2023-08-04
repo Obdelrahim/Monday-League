@@ -1,4 +1,4 @@
-# MondayLeague.github.io (Currently building a gas station and a McDonalds)
+# MondayLeague (Currently building a gas station and a McDonalds)
 ---
 ## Table of Contents 
 ### 1. [About](#About)
