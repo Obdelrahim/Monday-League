@@ -3,7 +3,6 @@
 ## Table of Contents 
 ### 1. [About](About)
 ### 2. [Purpose](Purpose)
-### 2. [NotCoolMan](NotCoolMan)
 
 ---
 ## About 
@@ -17,32 +16,3 @@ To announce random draft position seeding for Monday as well as a countdown time
 ### Long Term
 Eventually I hope to also construct and show metrics that I make In R as a long term project, whether they be fantasy related or real life  
 
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## NotCoolMan
