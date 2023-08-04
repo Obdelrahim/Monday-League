@@ -1,8 +1,8 @@
 # MondayLeague.github.io (Currently building a gas station and a McDonalds)
 ---
 ## Table of Contents 
-### 1. [About](## About)
-### 2. [Purpose](## Purpose)
+### 1. [About](#About)
+### 2. [Purpose](#Purpose)
 
 ---
 ## About 
