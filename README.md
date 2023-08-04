@@ -1,4 +1,4 @@
-# MondayLeague (Currently building a gas station and a McDonalds)
+# Monday League (Currently building a gas station and a McDonalds)
 ---
 ## Table of Contents 
 ### 1. [About](#About)
