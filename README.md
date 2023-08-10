@@ -1,12 +1,28 @@
 # Monday League (Currently building a gas station and a McDonalds)
 ---
 ## Table of Contents 
-### 1. [About](#About)
-### 2. [Purpose](#Purpose)
+### 1. [2023 Draft Order](#2023-Draft-Order) 
+### 2. [About](#About)
+### 3. [Purpose](#Purpose)
+
+---
+## 2023 Draft Order
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
 
 ---
 ## About 
-Github page made for the Monday Fantasy Football League ("Monday"). Currently as barren the Mojave.
+Github page made for the Monday Fantasy Football League ("Monday").
 
 ---
 
