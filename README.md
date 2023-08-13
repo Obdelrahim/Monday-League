@@ -1,4 +1,4 @@
-# Monday League (Currently building a gas station and a McDonalds)
+# Monday League
 ---
 ## Table of Contents 
 ### 1. [2023 Draft Order](#2023-Draft-Order) 
@@ -7,18 +7,18 @@
 
 ---
 ## 2023 Draft Order
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
-7.  
-8.  
-9.  
-10.  
-11.  
-12.  
+1. Mohammed  
+2. Ramzi  
+3. Eric Hayrapetian  
+4. David Trigueros  
+5. Nicholas Mercado  
+6. Nyl Parial  
+7. andrewshiny456  
+8. Jordan Zamiri  
+9. Angel Lao  
+10. Abdullah  
+11. Docsancho  
+12. Omer Abdelrahim   
 
 ---
 ## About 
