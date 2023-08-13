@@ -7,17 +7,17 @@
 
 ---
 ## 2023 Draft Order
-1. Mohammed  
-2. Ramzi  
+1. Mohammed Abdelrahim    
+2. Ramzi Maducdoc   
 3. Eric Hayrapetian  
 4. David Trigueros  
 5. Nicholas Mercado  
 6. Nyl Parial  
-7. andrewshiny456  
+7. Andrew Shin    
 8. Jordan Zamiri  
 9. Angel Lao  
-10. Abdullah  
-11. Docsancho  
+10. Abdullah Alnaqib    
+11. Javier Mejia    
 12. Omer Abdelrahim   
 
 ---
