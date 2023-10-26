@@ -4,6 +4,7 @@
 ### 1. [2023 Draft Order](#2023-Draft-Order) 
 ### 2. [About](#About)
 ### 3. [Purpose](#Purpose)
+### 3. [Some Stuff 2013-2023](#Some-Stff-2013-2023)
 
 ---
 ## 2023 Draft Order
@@ -32,3 +33,5 @@ To announce random draft position seeding for Monday as well as a countdown time
 ### Long Term
 Eventually I hope to also construct and show metrics that I make In R as a long term project, whether they be fantasy related or real life  
 
+---
+## Some Stuff 2013-2023
